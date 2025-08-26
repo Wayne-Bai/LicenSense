@@ -1,0 +1,192 @@
+{
+    "CC0-1.0": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": false,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "CC-BY-4.0": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "CC-BY-SA-4.0": {
+      "non_commercial": false,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "CC-BY-NC-4.0": {
+      "non_commercial": true,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "CC-BY-NC-SA-4.0": {
+      "non_commercial": true,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "CC-BY-ND-4.0": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": true,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "CC-BY-NC-ND-4.0": {
+      "non_commercial": true,
+      "sharealike": false,
+      "no_derivatives": true,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "MIT": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "BSD-2-Clause": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "BSD-3-Clause": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "Apache-2.0": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "Unlicense": {
+      "non_commercial": false,
+      "sharealike": false,
+      "no_derivatives": false,
+      "attribution": false,
+      "open_source": false,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "GPL-2.0-only": {
+      "non_commercial": false,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": true,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "GPL-3.0-only": {
+      "non_commercial": false,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": true,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "AGPL-3.0-only": {
+      "non_commercial": false,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": true,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "LGPL-3.0-only": {
+      "non_commercial": false,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": true,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "MPL-2.0": {
+      "non_commercial": false,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": true,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "EPL-2.0": {
+      "non_commercial": false,
+      "sharealike": true,
+      "no_derivatives": false,
+      "attribution": true,
+      "open_source": true,
+      "distribution_platform": false,
+      "naming": false
+    },
+    "PhysioNet Restricted Health Data License 1.5.0": {
+        "non_commercial": true,
+        "sharealike": false,
+        "no_derivatives": false,
+        "attribution": true,
+        "open_source": true,
+        "distribution_platform": false,
+        "naming": false
+    },
+    "PhysioNet Credentialed Health Data License 1.5.0": {
+        "non_commercial": true,
+        "sharealike": false,
+        "no_derivatives": false,
+        "attribution": true,
+        "open_source": true,
+        "distribution_platform": false,
+        "naming": false
+    },
+    "EULA": {
+        "non_commercial": true,
+        "sharealike": false,
+        "no_derivatives": true,
+        "attribution": false,
+        "open_source": false,
+        "distribution_platform": false,
+        "naming": false
+      }
+  }
+  
